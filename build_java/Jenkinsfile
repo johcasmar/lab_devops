@@ -1,4 +1,3 @@
-
 @Library('mlibraries-sprin') _
 spring {
 group = "generic_maven" 
