@@ -1,4 +1,4 @@
-@Library('mlibraries-sprin') _
+@Library('libraries-sprin') _
 spring {
 group = "generic_maven" 
 revision = "main"   
