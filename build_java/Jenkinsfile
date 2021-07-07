@@ -1,4 +1,4 @@
- @Library ("libraries-spring") _ 
+@Library ("libraries-spring") _ 
 spring {
 group = "generic_maven" 
 revision = "main"   
