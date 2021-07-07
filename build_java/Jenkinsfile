@@ -1,7 +1,7 @@
  @Library ("libraries-spring") _ 
 spring {
-//group = "generic_maven_sftp" 
-	revision = "main"   
+group = "generic_maven" 
+revision = "main"   
 //Diligenciar   
 //agentTag = "pod_template_maven-docker-testingnode" 
 vars = [ 
